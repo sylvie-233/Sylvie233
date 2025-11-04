@@ -73,3 +73,19 @@
 
 ### 10.园艺师
 
+
+
+
+
+## 资产
+
+phone：17729014809、17700737557
+gmail: sylviejc233@gmail.com
+github: sylvie233@126.com、sylviejc233@gmail.com
+gitee: 2953263940@qq.com
+codeforces: sylvie233@126.com
+leetcode: 17700737557
+nowcoder: 17700737557
+vjudge: sylviejc233、sylviejc233@gmail.com
+docker: sylviejc233@gmail.com
+
